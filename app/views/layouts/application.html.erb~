@@ -9,7 +9,6 @@
 <body>
 
 <%= yield %>
-<br><br>
-©2012 Andrii Oleksyshyn
+orphy
 </body>
 </html>
